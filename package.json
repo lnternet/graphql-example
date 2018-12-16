@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/lnternet/graphql-example#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.0.2"
   }
 }
